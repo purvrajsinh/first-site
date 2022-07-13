@@ -1,0 +1,35 @@
+body{background-image: url(back.png);
+}
+
+#h1{
+  font-family: Glasgow Heavy;
+
+}
+#h2{
+  font-family: impact;
+
+}
+#h3{
+  font-family:Candara Light;
+
+}
+
+.footer{
+    font-family: Candara Light;
+    position: relative;
+    padding: 150px;
+}
+
+#line{
+    width: 80%;
+    
+}
+
+.d2{
+    position: relative;
+    bottom: 40px;
+}
+.d3{
+    position: relative;
+    bottom: 10px;
+}
